@@ -1,4 +1,4 @@
-# FastAPI RTSP Video Streaming Server
+# FastAPI And React RTSP Video Streaming Server
 
 This project is a **FastAPI-based RTSP video streaming server** that streams live video from RTSP sources (such as IP cameras) and serves it as an **MJPEG stream** over HTTP.
 
@@ -14,7 +14,7 @@ This project is a **FastAPI-based RTSP video streaming server** that streams liv
 
 ## Tech Stack
 - **Backend:** FastAPI, OpenCV, Python
-- **Optional Frontend:** React.js (for embedding the video feed)
+- **Optional Frontend:** React.js 
 
 ---
 
