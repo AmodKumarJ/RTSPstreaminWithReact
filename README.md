@@ -77,11 +77,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Author
 [Amod Kumar J](https://github.com/username)
 
